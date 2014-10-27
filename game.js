@@ -15,10 +15,11 @@ var c = {
  * - Spielzeug: Bindet Kinder an einen Ort
  * - Mitnehmen: Bewegt ein Kind von einem Ort zum Anderen
  * - Essen anbieten: Kinder bewegen sich zu Spieler, dann wieder zurück	
+ * - Katzenscheiße - Kind wird krank, fall es dieses Feld berührt. Spieler muss es entsprogen. Mülleimer
  */
 
 
-$(document).ready(function() {
+$(ddaocument).ready(function() {
 	//init Crafty with FPS of 50 and create the canvas element
 	Crafty.init();
 	Crafty.canvas.init();
